@@ -1,0 +1,6 @@
+#weeding-bg {
+  background: url('../images/bg.jpg');
+  background-size: cover;
+  background-position: center;
+  color: rgba(255, 255, 255, 0.644);
+}
